@@ -1,8 +1,8 @@
 # Data-Science-Projects
 
 
-| Project               | Description                                                                                     | Libraries                       |
-|:--------------------- |:----------------------------------------------------------------------------------------------- |:------------------------------- |
+| Project               | Description                                                                                   | Libraries                       |
+|:--------------------- |:--------------------------------------------------------------------------------------------- |:------------------------------- |
 |[Bank Credit Score Analysis](https://github.com/mcpri/Data-Science-Projects/tree/main/Bank%20Credit%20Score%20Analysis) | Data Preprocessing: Utilizing different metrics to determine the likelihood that a customer defaults on a loan. | *pandas*, *nltk*, *WordNetLemmatizer*, *Matplotlib* |
 |[Vehicle Price Analysis](https://github.com/mcpri/Data-Science-Projects/tree/main/Car_Sales_Analysis) | Exploratory Data Analysis (EDA): Studying vehicle data to determine what factors influence's vehicle prices.|*pandas, matplotlib, numpy, seaborn*|
 |[Phone Plan Analysis](https://github.com/mcpri/Data-Science-Projects/tree/main/Phone_Plan_Analysis)| Statistical Data Analysis: Selecting the plan with the highest potential revenue for different target markets and conducting hypothesis testing.|*pandas, matplotlib, scipy, numpy, seaborn, re*|
